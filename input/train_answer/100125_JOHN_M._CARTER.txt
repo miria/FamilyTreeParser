@@ -1,0 +1,4 @@
+CHILD	Mrs. McIntire
+CHILD	Marsh
+CHILD	Manson
+CHILD	Volney P. Carter

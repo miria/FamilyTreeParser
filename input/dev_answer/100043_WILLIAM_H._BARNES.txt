@@ -1,0 +1,18 @@
+SPOUSE	Mrs. Barnes
+CHILD	George E.
+CHILD	William E.
+CHILD	Ambrose
+CHILD	Herbert H.
+CHILD	Charles
+CHILD	Walter
+CHILD	Mrs. Lottie L. Johnson
+CHILD	Mrs. Irma I. McDougall
+SPOUSE	Miss Clarissa G. Anderson
+CHILD	George E. Barnes
+CHILD	W. E. Barnes
+CHILD	H. H. Barnes
+CHILD	A. F. Barnes
+CHILD	Lotta L. Johnson
+CHILD	Irma T. McDougall
+CHILD	Walter M. Barnes
+CHILD	Chas. S. Barnes

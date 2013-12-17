@@ -1,0 +1,7 @@
+SPOUSE	Sarah Rotchiff
+CHILD	W. T. Corn
+CHILD	Emery A. Corn
+CHILD	Emery A.
+SPOUSE	Sarah Corn
+CHILD	J. E. Corn
+CHILD	Mrs. Archer

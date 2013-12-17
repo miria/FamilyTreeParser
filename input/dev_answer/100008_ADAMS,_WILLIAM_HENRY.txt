@@ -1,0 +1,16 @@
+PARENT	Jabez Adams
+PARENT	Lucinda Cundiff
+SPOUSE	Mary E(maline) Spurgeon
+CHILD	Edward
+CHILD	James H. Adams
+CHILD	Bert A. Adams
+CHILD	Charles H. Adams
+CHILD	Pearl A. Adams
+CHILD	Minnie E. Adams
+CHILD	William A. Adams
+CHILD	Myrlte M. Adams
+CHILD	Ross D. Adams
+CHILD	Lester D. Adams
+CHILD	Lola M. Adams
+CHILD	Ollie G. Adams
+CHILD John Jabez Adams    

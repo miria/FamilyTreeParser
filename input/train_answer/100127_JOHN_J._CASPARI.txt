@@ -1,0 +1,7 @@
+CHILD	Mrs. Sarah Holland
+CHILD	Mrs. Mary Fulet
+CHILD	Mrs. Anna Butler
+CHILD	Harry Caspri
+CHILD	Elda Caspri
+CHILD	John Caspri
+CHILD	Fred Caspri

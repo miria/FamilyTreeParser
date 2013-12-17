@@ -1,0 +1,4 @@
+SPOUSE	Miss Ellen Nesmith
+CHILD	Arthur
+CHILD	Bessie
+CHILD	Alice

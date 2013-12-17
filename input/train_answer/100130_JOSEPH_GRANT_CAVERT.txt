@@ -1,0 +1,7 @@
+CHILD	H. O. Cavert
+CHILD	Mrs. Frankie Parker
+CHILD	Mrs. Stella Flora
+CHILD	Mrs. Mattie Calhoun
+CHILD	Callista Covert
+SPOUSE	Mrs. Sarah C. Gary
+SPOUSE	Ho. O. Cavert

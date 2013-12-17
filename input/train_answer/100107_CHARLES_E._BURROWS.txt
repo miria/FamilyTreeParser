@@ -1,0 +1,4 @@
+CHILD	Mrs. Ella Way
+CHILD	Mrs. Maude Rotan
+CHILD	Clarence R. Burrows
+CHILD	Mrs. Jessie I. Benton

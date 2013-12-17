@@ -1,0 +1,8 @@
+CHILD	Charles
+CHILD	Fred
+CHILD	Earnest
+CHILD	Frank
+CHILD	Mrs. Daisy Banks
+CHILD	Mrs. Bertha Livingston
+CHILD	Mrs. Anna Walton
+CHILD	Mrs. Earl Jenkins

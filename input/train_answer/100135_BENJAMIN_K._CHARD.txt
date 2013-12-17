@@ -1,0 +1,4 @@
+CHILD	Mrs. Alec Tredway
+CHILD	Will
+CHILD	Frank Chard
+CHILD	Mrs. Geo. A. Walters

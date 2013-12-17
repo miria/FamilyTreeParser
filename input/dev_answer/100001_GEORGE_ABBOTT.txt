@@ -1,0 +1,3 @@
+SPOUSE	Miss Lucy Lindley
+CHILD	Elmer
+CHILD	Arthur

@@ -1,0 +1,7 @@
+SPOUSE	Miss Mary Jones
+CHILD	W. C. Walker
+CHILD	D. W. Isaac
+CHILD	M. H. Williams
+CHILD	Willis Alsop
+SPOUSE	Mrs. Minnie Larkins
+CHILD	Lonnie

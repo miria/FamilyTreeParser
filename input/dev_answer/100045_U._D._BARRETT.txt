@@ -1,0 +1,3 @@
+PARENT	Thomas
+PARENT	Susan Barrett
+SPOUSE	Mrs. Anna Johnston

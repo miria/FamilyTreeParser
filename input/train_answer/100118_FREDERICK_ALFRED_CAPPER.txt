@@ -1,0 +1,6 @@
+SPOUSE	Fanny Goodell
+CHILD	Carrie C
+CHILD	Charles C.
+CHILD	Julia A.
+CHILD	John L.
+CHILD	C. Pauline Haley

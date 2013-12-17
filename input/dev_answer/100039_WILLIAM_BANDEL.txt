@@ -1,0 +1,6 @@
+SPOUSE	Miss Josephine Marie Haller
+CHILD	Mrs. Cora Bignal
+CHILD	Mrs. Emma Carrall
+CHILD	Frank Bandel
+CHILD	August Bandel
+CHILD	Clarence Bandel

@@ -1,0 +1,4 @@
+SPOUSE	Mrs. Cayton
+CHILD	Marshall
+CHILD	Herschell
+CHILD	Eugene Cayton

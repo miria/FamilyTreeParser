@@ -1,0 +1,8 @@
+CHILD	Harry
+SPOUSE	Jennie Alves
+CHILD	Mrs. Cora Cox
+SPOUSE	Lyda E. Lingo
+SPOUSE	Henrietta Siler
+CHILD	Mrs. Cox
+CHILD	Edward
+CHILD	Mrs. J. D. Dunbar

@@ -1,0 +1,12 @@
+SPOUSE	Miss Annie House
+CHILD	Gertude
+SPOUSE	Annie Baxter
+CHILD	W. W. Baxter
+CHILD	J. P. Baxter
+CHILD	Miss Josie
+CHILD	Miss Edna
+CHILD	Mrs. Maggie Devers
+CHILD	C. E. Baxter
+CHILD	Mrs. G. W. Slutz
+CHILD	T. P. Baxter
+CHILD	Virgil Baxter

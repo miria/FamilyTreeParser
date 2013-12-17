@@ -1,0 +1,3 @@
+SPOUSE	Miss Adeline Redfield
+CHILD	Henry
+CHILD	Orrin

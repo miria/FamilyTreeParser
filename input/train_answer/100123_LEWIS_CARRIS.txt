@@ -1,0 +1,5 @@
+SPOUSE	Harriet Brooks
+CHILD	Mrs. J. F. Justus
+CHILD	Mrs. Frances Ditgen
+CHILD	Mrs. Lyle Banz
+CHILD	Elmer Carris

@@ -1,0 +1,9 @@
+SPOUSE	Sarah A. Tom
+CHILD	L. H. Clark
+CHILD	O. L. Clark
+CHILD	Mrs. W. L. Baldwin
+CHILD	Chas. S. Clark
+CHILD	Mrs. Belle C. Swope
+CHILD	Mrs. S. L. McReynolds
+CHILD	C. A. Clark
+CHILD	James Arthur Clark

@@ -1,0 +1,9 @@
+SPOUSE	Melissa C. Smith
+CHILD	George L.
+CHILD	Claude V.
+SPOUSE	Ruth R. Hopkins
+CHILD	Edgar R.
+CHILD	Frank W.
+CHILD	William F.
+CHILD	Jennie P. Sweeny
+SPOUSE	Sarah Keiser

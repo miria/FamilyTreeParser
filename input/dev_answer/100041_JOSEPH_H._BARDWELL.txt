@@ -1,0 +1,4 @@
+SPOUSE	Mrs. J. H. Bardwell
+CHILD	Mrs. Lillie Bardwell Biggs
+SPOUSE	Sarah A. Johnson
+CHILD	Harry C. Bardwell

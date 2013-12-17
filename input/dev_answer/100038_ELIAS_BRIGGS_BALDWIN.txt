@@ -1,0 +1,9 @@
+PARENT	Jacob Baldwin
+PARENT	Abigail Briggs
+SPOUSE	Julia
+CHILD	Evelyn B.
+CHILD	Milton N.
+CHILD	Burton L.
+SPOUSE	Lydia Gibbs
+CHILD	Edwin M.
+CHILD	Julia A

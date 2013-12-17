@@ -1,0 +1,6 @@
+SPOUSE	Catherine Spidel
+CHILD	Oliver
+CHILD	Jacob R.
+CHILD	James W.
+CHILD	May Ellen
+CHILD	Chas. C.

@@ -1,0 +1,5 @@
+SPOUSE	Nancy J. Hardison
+SPOUSE	Mrs. Ida Fuller
+CHILD	Aaron M.
+CHILD	Clarence R.
+CHILD	Bartlett Calvin

@@ -1,0 +1,5 @@
+PARENT	S. L. Adair
+SPOUSE	Miss Flora Gale
+CHILD	Charles
+SPOUSE	Miss Hettie Thompson
+CHILD	Charlie

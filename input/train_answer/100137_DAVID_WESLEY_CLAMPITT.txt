@@ -1,0 +1,5 @@
+SPOUSE	Mary Etta Hugg
+SPOUSE	Mary Etta Clampitt
+CHILD	Mrs. A. C. Rowlen
+CHILD	J. W.
+CHILD	S. O.

@@ -1,0 +1,6 @@
+CHILD	John
+CHILD	William
+CHILD	Roy
+CHILD	Mrs. E. J. Denney
+CHILD	Mrs. L. Jewell
+CHILD	Mrs. Joseph McDowell

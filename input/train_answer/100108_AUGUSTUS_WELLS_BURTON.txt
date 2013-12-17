@@ -1,0 +1,11 @@
+SPOUSE	Miss Sarah Hetty Hays
+CHILD	Augustus
+CHILD	Mary
+CHILD	Clara Curtis
+CHILD	Harriet M. Porter
+CHILD	Bertha Grace
+CHILD	Frank E.
+CHILD	Horace E.
+CHILD	Mrs. Sarah B. Porter
+CHILD	Mrs. Nellie Carr
+CHILD	Mrs. Augustus Wallace

@@ -1,0 +1,9 @@
+SPOUSE	Miss Catherine Wilson
+CHILD	Addie Belle
+CHILD	Minnie May
+CHILD	Charles D.
+CHILD	Fred J.
+CHILD	Mabel M. Sheley
+CHILD	Carrie L.
+CHILD	Allie S. Cunningham
+CHILD	Robert L.

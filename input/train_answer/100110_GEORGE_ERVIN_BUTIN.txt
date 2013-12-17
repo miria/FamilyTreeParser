@@ -1,0 +1,3 @@
+SPOUSE	Miss Josephine Hull
+CHILD	Frank Butin
+CHILD	Chas. Butin

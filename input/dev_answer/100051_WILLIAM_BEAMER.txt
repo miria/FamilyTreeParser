@@ -1,0 +1,6 @@
+CHILD	J. H. Beamer
+CHILD	Mrs. J. W. Phelps
+CHILD	Mrs. Belle Colaw
+CHILD	Mrs. W. A. Halsey
+CHILD	Sam Beamer
+CHILD	Mrs. J. E. Blankenship

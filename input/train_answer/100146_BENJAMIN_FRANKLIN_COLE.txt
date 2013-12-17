@@ -1,0 +1,8 @@
+PARENT	Marquis Lafayette (Marcus) Cole
+PARENT	Debra Sherman (b. in Palmyra)
+SPOUSE	Anna S.
+CHILD	Adelia
+CHILD	Adelbert
+CHILD	Calista
+SPOUSE	Alida May Rounds
+CHILD	Ina Roamy Cole

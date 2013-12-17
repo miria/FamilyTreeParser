@@ -1,0 +1,9 @@
+SPOUSE	Miss Mary Susan  Luyster
+CHILD	Mrs. E. W. Beeson
+CHILD	William Carnine
+CHILD	Mrs. Hattie Gordon
+CHILD	John Carnine
+CHILD	Mrs. Dell Buckingham
+CHILD	Harry Carnine
+CHILD	Charles Carnine
+CHILD	George E. Carnine

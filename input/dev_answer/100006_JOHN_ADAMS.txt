@@ -1,0 +1,3 @@
+CHILD	Mrs. Ella Pate
+CHILD	Isaac Adams
+SPOUSE	Miss Rachel Waldrip

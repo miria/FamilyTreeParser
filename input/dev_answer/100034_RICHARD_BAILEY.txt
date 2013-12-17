@@ -1,0 +1,3 @@
+SPOUSE	Mrs. Sara Torrington
+CHILD	Mrs. Mary Ford
+CHILD	Mrs. Mattie Wood
